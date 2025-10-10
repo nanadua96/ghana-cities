@@ -716,11 +716,7 @@
     "region": "Greater Accra"
   },
   {
-    "name": "Airport Residential Area",
-    "region": "Greater Accra"
-  },
-  {
-    "name": "Amrahia",
+    "name": "Airport",
     "region": "Greater Accra"
   },
   {
@@ -933,6 +929,10 @@
   },
   {
     "name": "Tema",
+    "region": "Greater Accra"
+  },
+  {
+    "name": "Tema New Town",
     "region": "Greater Accra"
   },
   {

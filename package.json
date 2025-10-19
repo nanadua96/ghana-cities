@@ -1,6 +1,7 @@
 {
+  "private": true,
   "type": "module",
   "scripts": {
-    "build": "node ."
+    "build": "node script.js"
   }
 }
